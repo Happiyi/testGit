@@ -1,5 +1,5 @@
 line one
 line two
 lin
-e abcd
+e a
 line four
